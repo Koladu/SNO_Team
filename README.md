@@ -1,7 +1,11 @@
 # SNO_Team
 # Plata_1
-![Plata1](https://user-images.githubusercontent.com/73915232/132924813-2728147c-c402-4295-bfd5-34e10769dae9.png)
-
+![Plata1](https://user-images.githubusercontent.com/73915232/132925141-40b3a249-82eb-448c-853a-a3e7d626806a.png)
+>
+>
 
 # Plata_2
-![Plata2](https://user-images.githubusercontent.com/73915232/132924818-8ba77306-305c-4ede-9953-b12d39d5c19e.png)
+![Plata2](https://user-images.githubusercontent.com/73915232/132925145-f2b12926-f6bb-4601-9b27-41d91a14f035.png)
+>
+>
+
