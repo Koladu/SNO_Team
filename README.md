@@ -12,7 +12,7 @@
 # Plata_2
 ![Plata2](https://user-images.githubusercontent.com/73915232/132925145-f2b12926-f6bb-4601-9b27-41d91a14f035.png)
 
-> - [x] C7 - 8200 пФ, AVX 12063A822GAT2A [URL](https://eu.mouser.com/ProductDetail/AVX/12063A822GAT2A/?qs=F91PkY65Onsy%2FRYTYO81dg==) [2]
+> - [] C7 - 8200 пФ, AVX 12063A822GAT2A [URL](https://eu.mouser.com/ProductDetail/AVX/12063A822GAT2A/?qs=F91PkY65Onsy%2FRYTYO81dg==) [2]
 > - [ ] C8 - 1700 пФ, AVX 1812AC172KAT1A [URL](https://eu.mouser.com/ProductDetail/AVX/1812AC172KAT1A?qs=pDiu8pSdM%252BcqlnY08C34Gw==) [2]
 > - [ ] C9 - 4400 пФ, AVX 18122A442GAT2A [URL](https://eu.mouser.com/ProductDetail/AVX/18122A442GAT2A?qs=P8fKmrpbnHm7n1W84c3WOA==) [2]
 > - [x] L3 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
