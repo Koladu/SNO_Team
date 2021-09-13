@@ -5,7 +5,7 @@
 > - [x] L1, L4 - 12 мкГн, IMC1008ER120J [URL](https://www.digikey.be/product-detail/en/vishay-dale/IMC1008ER120J/IMC1008ER120J-ND/2575365) [1]
 > - [X] L2 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
 > - [x] L3 - 2,7 мкГн, Vishay IMC1008ER2R7J [URL](https://www.digikey.com/en/products/detail/vishay-dale/IMC1008ER2R7J/2575379) [1]
-> - [ ] C1, C4 - 8000 пФ, AVX 08055C802JAT2A [URL](https://www.mouser.sg/ProductDetail/AVX/08055C802JAT2A/?qs=9ln8i7xIGVIPYDDjBrmAkw==) [2]
+> - [x] C1, C4 - 8000 пФ, AVX 08055C802JAT2A [URL](https://www.mouser.sg/ProductDetail/AVX/08055C802JAT2A/?qs=9ln8i7xIGVIPYDDjBrmAkw==) [2]
 > - [ ] C2 - 6200 пФ, AVX 06035C622JAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/06035C622JAT2A?qs=qVfB0%2FDaMDZWRv%252Bkr9XLdA%3D%3D) [2]
 > - [ ] C3 - 0,03 мкФ, AVX 12061C303JAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/12061C303JAT2A/?qs=DFzMtgyOV7fE5zSlsoT6Tg%3D%3D) [2]
 
