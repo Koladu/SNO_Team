@@ -1,0 +1,25 @@
+Added Component: Designator=C7(C7(1206))
+Added Component: Designator=C8(C8(1812))
+Added Component: Designator=C9(C9(1812))
+Added Component: Designator=L3(L3,L4)
+Added Component: Designator=L4(L3,L4)
+Added Component: Designator=Pin1(Pin)
+Added Component: Designator=Pin2(Pin)
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=C8-2
+Added Pin To Net: NetName=NetC7_1 Pin=L3-1
+Added Pin To Net: NetName=NetC7_1 Pin=L4-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_1 Pin=L4-1
+Added Pin To Net: NetName=NetC8_1 Pin=Pin1-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=Pin2-1
+Added Net: Name=NetL3_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
