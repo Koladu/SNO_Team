@@ -1,7 +1,6 @@
 # SNO_Team
 # Plata_1
 ![Plata1](https://user-images.githubusercontent.com/73915232/132925141-40b3a249-82eb-448c-853a-a3e7d626806a.png)
-![Plata1(pcb)32mmX26mm](https://user-images.githubusercontent.com/73915232/133055812-eb52cf1e-6237-41b1-8ba2-9ceae03be9e6.png)
 
 
 > - [x] L1, L4 - 12 мкГн, IMC1008ER120J [URL](https://www.digikey.be/product-detail/en/vishay-dale/IMC1008ER120J/IMC1008ER120J-ND/2575365) [1]
