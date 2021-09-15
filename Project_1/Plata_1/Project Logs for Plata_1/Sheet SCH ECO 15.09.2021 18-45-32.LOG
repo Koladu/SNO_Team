@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Pin1 Old Footprint=Pin New Footprint=L2
+Change Component Comment: Designator=Pin1 Old Comment=Pin New Comment=Comment
+Change Component Designator: OldDesignator=Pin1 NewDesignator=L2
+Change Pin Designator/Name:  Old Designator=L2-2 Old Name=2 New Designator =1 New Name=1
