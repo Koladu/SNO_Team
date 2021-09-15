@@ -1,5 +1,5 @@
 # SNO_Team
-# Plata_1
+# Plata_1 (ПЗФ)
 ![Plata1](https://user-images.githubusercontent.com/73915232/132925141-40b3a249-82eb-448c-853a-a3e7d626806a.png)
 
 
@@ -10,7 +10,7 @@
 > - [x] C2 - 6200 пФ, AVX 06035C622JAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/06035C622JAT2A?qs=qVfB0%2FDaMDZWRv%252Bkr9XLdA%3D%3D) [2]
 > - [x] C3 - 0,03 мкФ, AVX 12061C303JAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/12061C303JAT2A/?qs=DFzMtgyOV7fE5zSlsoT6Tg%3D%3D) [2]
 
-# Plata_2
+# Plata_2 (ФНЧ)
 ![Plata2](https://user-images.githubusercontent.com/73915232/132925145-f2b12926-f6bb-4601-9b27-41d91a14f035.png)
 
 > - [x] C7 - 8200 пФ, AVX 12063A822GAT2A [URL](https://eu.mouser.com/ProductDetail/AVX/12063A822GAT2A/?qs=F91PkY65Onsy%2FRYTYO81dg==) [2]
