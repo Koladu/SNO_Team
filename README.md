@@ -19,3 +19,13 @@
 > - [x] L3 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
 > - [x] L4 - 18 мкГн, Vishay ISC1812ES180J [URL](https://eu.mouser.com/ProductDetail/Vishay-Dale/ISC1812ES180J/?qs=Rmm4dFsgE41MAI%252BRZjDPqw==) [3]
 
+# Plata_3 (ФВЧ)
+
+
+> - [x] C1 - 5600 пФ, AVX 12105A562GAT2A [URL]()
+> - [x] C2 - 10000 пФ, AVX 1206YA103GAT2A [URL]()
+> - [x] L1 - 18 мкГн, Vishay IMC1008ER180J [URL]()
+> - [x] L2 - 56 мкГн, Vishay IMC1812RQ560J [URL]()
+> - [x] L3 - 12 мкГн, Vishay IMC1008ER120J [URL]()
+> - [x] L4 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
+> - [x] L5 - 27 мкГн, Vishay IMC1008ER270J [URL]()
