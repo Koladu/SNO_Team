@@ -22,9 +22,9 @@
 # Plata_3 (ФВЧ)
 
 
-> - [x] C1 - 5600 пФ, AVX 12105A562GAT2A [URL]()
-> - [x] C2 - 10000 пФ, AVX 1206YA103GAT2A [URL]()
-> - [x] L1 - 18 мкГн, Vishay IMC1008ER180J [URL]()
+> - [x] C1 - 5600 пФ, AVX 12105A562GAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/12105A562GAT2A?qs=g4GicpPc1D4812oSR7uCrQ%3D%3D)
+> - [x] C2 - 10000 пФ, AVX 1206YA103GAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/1206YA103GAT2A?qs=MOd%2Fd18ARG9kQmtDZ%252BkTaQ%3D%3D)
+> - [x] L1 - 18 мкГн, Vishay IMC1008ER180J [URL](https://www.digikey.be/product-detail/en/vishay-dale/IMC1008ER180J/IMC1008ER180J-ND/2575369)
 > - [x] L2 - 56 мкГн, Vishay IMC1812RQ560J [URL]()
 > - [x] L3 - 12 мкГн, Vishay IMC1008ER120J [URL]()
 > - [x] L4 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
