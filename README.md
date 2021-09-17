@@ -29,3 +29,11 @@
 > - [x] L3 - 12 мкГн, Vishay IMC1008ER120J [URL](https://www.digikey.be/product-detail/en/vishay-dale/IMC1008ER120J/IMC1008ER120J-ND/2575365)
 > - [x] L4 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
 > - [x] L5 - 27 мкГн, Vishay IMC1008ER270J [URL](https://ru.mouser.com/ProductDetail/Vishay-Dale/IMC1008ER270J?qs=o8WJ1JmQpu7a0k4bXp1dhQ%3D%3D)
+
+# Plata_4 (ППФ)
+![Plata4]()
+
+> - [x] C1, C3 - 56 нФ, Vishay VJ2225A563FXAAT [URL]()
+> - [x] C2 - 3.9 нФ, Vishay HV1812Y392KXHATHV [URL]()
+> - [x] L1, L3 - 1.8 мкГн, Vishay IMC1008ER1R8J [URL]()
+> - [x] L2 - 27 мкГн, Vishay IMC1008ER270J [URL](https://ru.mouser.com/ProductDetail/Vishay-Dale/IMC1008ER270J?qs=o8WJ1JmQpu7a0k4bXp1dhQ%3D%3D)
