@@ -20,7 +20,7 @@
 > - [x] L4 - 18 мкГн, Vishay ISC1812ES180J [URL](https://eu.mouser.com/ProductDetail/Vishay-Dale/ISC1812ES180J/?qs=Rmm4dFsgE41MAI%252BRZjDPqw==) [3]
 
 # Plata_3 (ФВЧ)
-
+![Plata3](https://user-images.githubusercontent.com/73915232/133774421-523ff931-ff1f-4855-b7e7-8724650d241e.png)
 
 > - [x] C1 - 5600 пФ, AVX 12105A562GAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/12105A562GAT2A?qs=g4GicpPc1D4812oSR7uCrQ%3D%3D)
 > - [x] C2 - 10000 пФ, AVX 1206YA103GAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/1206YA103GAT2A?qs=MOd%2Fd18ARG9kQmtDZ%252BkTaQ%3D%3D)
