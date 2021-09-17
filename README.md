@@ -20,12 +20,20 @@
 > - [x] L4 - 18 мкГн, Vishay ISC1812ES180J [URL](https://eu.mouser.com/ProductDetail/Vishay-Dale/ISC1812ES180J/?qs=Rmm4dFsgE41MAI%252BRZjDPqw==) [3]
 
 # Plata_3 (ФВЧ)
-
+![Plata3](https://user-images.githubusercontent.com/73915232/133774421-523ff931-ff1f-4855-b7e7-8724650d241e.png)
 
 > - [x] C1 - 5600 пФ, AVX 12105A562GAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/12105A562GAT2A?qs=g4GicpPc1D4812oSR7uCrQ%3D%3D)
 > - [x] C2 - 10000 пФ, AVX 1206YA103GAT2A [URL](https://ru.mouser.com/ProductDetail/AVX/1206YA103GAT2A?qs=MOd%2Fd18ARG9kQmtDZ%252BkTaQ%3D%3D)
 > - [x] L1 - 18 мкГн, Vishay IMC1008ER180J [URL](https://www.digikey.be/product-detail/en/vishay-dale/IMC1008ER180J/IMC1008ER180J-ND/2575369)
-> - [x] L2 - 56 мкГн, Vishay IMC1812RQ560J [URL]()
-> - [x] L3 - 12 мкГн, Vishay IMC1008ER120J [URL]()
+> - [x] L2 - 56 мкГн, Vishay IMC1812RQ560J [URL](https://www.excestore.ru/products/Dale-Vishay/IMC1812RQ560J)
+> - [x] L3 - 12 мкГн, Vishay IMC1008ER120J [URL](https://www.digikey.be/product-detail/en/vishay-dale/IMC1008ER120J/IMC1008ER120J-ND/2575365)
 > - [x] L4 - 15 мкГн, Vishay IMC1812ER150J [URL](https://eu.mouser.com/ProductDetail/?qs=XQ00FSfuEDD%252Bs6EVVFZ2gQ==) [3]
-> - [x] L5 - 27 мкГн, Vishay IMC1008ER270J [URL]()
+> - [x] L5 - 27 мкГн, Vishay IMC1008ER270J [URL](https://ru.mouser.com/ProductDetail/Vishay-Dale/IMC1008ER270J?qs=o8WJ1JmQpu7a0k4bXp1dhQ%3D%3D)
+
+# Plata_4 (ППФ)
+![Plata4]()
+
+> - [x] C1, C3 - 56 нФ, Vishay VJ2225A563FXAAT [URL]()
+> - [x] C2 - 3.9 нФ, Vishay HV1812Y392KXHATHV [URL](https://ru.mouser.com/ProductDetail/Vishay-Vitramon/HV1812Y392KXHATHV?qs=FphPqe%252Bob2hxlkdmcJJnZA%3D%3D)
+> - [x] L1, L3 - 1.8 мкГн, Vishay IMC1008ER1R8J [URL](https://ru.mouser.com/ProductDetail/?qs=o8WJ1JmQpu5cOo6d0WO9Mg%3D%3D)
+> - [x] L2 - 27 мкГн, Vishay IMC1008ER270J [URL](https://ru.mouser.com/ProductDetail/Vishay-Dale/IMC1008ER270J?qs=o8WJ1JmQpu7a0k4bXp1dhQ%3D%3D)
