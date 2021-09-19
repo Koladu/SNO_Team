@@ -33,7 +33,7 @@
 # Plata_4 (ППФ)
 ![Plata4]()
 
-> - [x] C1, C3 - 56 нФ, Vishay VJ2225A563FXAAT [URL]()
+> - [x] C1, C3 - 56 нФ, Vishay VJ2225A563FXAAT [URL](https://ru.mouser.com/ProductDetail/Vishay-Vitramon/VJ2225A563FXAAT?qs=TZi4OKKi7fUmG2cmaeSTBg%3D%3D)
 > - [x] C2 - 3.9 нФ, Vishay HV1812Y392KXHATHV [URL](https://ru.mouser.com/ProductDetail/Vishay-Vitramon/HV1812Y392KXHATHV?qs=FphPqe%252Bob2hxlkdmcJJnZA%3D%3D)
 > - [x] L1, L3 - 1.8 мкГн, Vishay IMC1008ER1R8J [URL](https://ru.mouser.com/ProductDetail/?qs=o8WJ1JmQpu5cOo6d0WO9Mg%3D%3D)
 > - [x] L2 - 27 мкГн, Vishay IMC1008ER270J [URL](https://ru.mouser.com/ProductDetail/Vishay-Dale/IMC1008ER270J?qs=o8WJ1JmQpu7a0k4bXp1dhQ%3D%3D)
