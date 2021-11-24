@@ -1,4 +1,7 @@
 # SNO_Team
+# Структурная схема стенда
+![Структурная схема стенда](https://user-images.githubusercontent.com/73915232/143309709-7842f8c1-0600-4da4-8075-2a7266bd5e11.png)
+
 # Plata_1 (ПЗФ)
 ![Plata1](https://user-images.githubusercontent.com/73915232/132925141-40b3a249-82eb-448c-853a-a3e7d626806a.png)
 
