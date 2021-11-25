@@ -1,0 +1,64 @@
+Added Component: Designator=C1_S1(0603)
+Added Component: Designator=C1_S2(0603)
+Added Component: Designator=C2_S1(1885)
+Added Component: Designator=C2_S2(1885)
+Added Component: Designator=R1_S1(1206)
+Added Component: Designator=R1_S2(1206)
+Added Component: Designator=R2_S1(0402)
+Added Component: Designator=R2_S2(0402)
+Added Component: Designator=R3_S1(1206)
+Added Component: Designator=R3_S2(1206)
+Added Component: Designator=THS4225_1(DGK8-M)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "THS4225DGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=THS4225_2(DGK8-M)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "THS4225DGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2_S1-2
+Added Pin To Net: NetName=GND Pin=C2_S2-2
+Added Pin To Net: NetName=GND Pin=THS4225_1-3
+Added Pin To Net: NetName=GND Pin=THS4225_2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_S1_1 Pin=C1_S1-1
+Added Pin To Net: NetName=NetC1_S1_1 Pin=R1_S2-1
+Added Pin To Net: NetName=NetC1_S1_1 Pin=R2_S1-2
+Added Pin To Net: NetName=NetC1_S1_1 Pin=THS4225_1-6
+Added Net: Name=NetC1_S1_1
+Added Pin To Net: NetName=NetC1_S1_2 Pin=C1_S1-2
+Added Pin To Net: NetName=NetC1_S1_2 Pin=R3_S1-2
+Added Pin To Net: NetName=NetC1_S1_2 Pin=THS4225_1-2
+Added Net: Name=NetC1_S1_2
+Added Pin To Net: NetName=NetC1_S2_1 Pin=C1_S2-1
+Added Pin To Net: NetName=NetC1_S2_1 Pin=R2_S2-2
+Added Pin To Net: NetName=NetC1_S2_1 Pin=THS4225_2-6
+Added Net: Name=NetC1_S2_1
+Added Pin To Net: NetName=NetC1_S2_2 Pin=C1_S2-2
+Added Pin To Net: NetName=NetC1_S2_2 Pin=R3_S2-2
+Added Pin To Net: NetName=NetC1_S2_2 Pin=THS4225_2-2
+Added Net: Name=NetC1_S2_2
+Added Pin To Net: NetName=NetC2_S1_1 Pin=C2_S1-1
+Added Pin To Net: NetName=NetC2_S1_1 Pin=R1_S1-2
+Added Pin To Net: NetName=NetC2_S1_1 Pin=R2_S1-1
+Added Pin To Net: NetName=NetC2_S1_1 Pin=R3_S1-1
+Added Net: Name=NetC2_S1_1
+Added Pin To Net: NetName=NetC2_S2_1 Pin=C2_S2-1
+Added Pin To Net: NetName=NetC2_S2_1 Pin=R1_S2-2
+Added Pin To Net: NetName=NetC2_S2_1 Pin=R2_S2-1
+Added Pin To Net: NetName=NetC2_S2_1 Pin=R3_S2-1
+Added Net: Name=NetC2_S2_1
+Added Pin To Net: NetName=NetR1_S1_1 Pin=R1_S1-1
+Added Net: Name=NetR1_S1_1
+Added Pin To Net: NetName=Vcc Pin=THS4225_1-7
+Added Pin To Net: NetName=Vcc Pin=THS4225_2-7
+Added Net: Name=Vcc
+Added Pin To Net: NetName=Vee Pin=THS4225_1-4
+Added Pin To Net: NetName=Vee Pin=THS4225_2-4
+Added Net: Name=Vee
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
