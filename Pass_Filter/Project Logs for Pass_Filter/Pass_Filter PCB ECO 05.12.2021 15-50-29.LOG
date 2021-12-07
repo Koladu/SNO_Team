@@ -1,0 +1,112 @@
+Added Component: Designator=C3(C1206)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C1812)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C1812)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(C1206)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0805)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(C2225)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(C1812)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C2225)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(L1008)
+Added Component: Designator=L2(L1812)
+Added Component: Designator=L3(L1008)
+Added Component: Designator=L4(L1812)
+Added Component: Designator=L5(L1008)
+Added Component: Designator=L6(L1812)
+Added Component: Designator=L7(L1812)
+Added Component: Designator=L8(L1008)
+Added Component: Designator=L9(L1812)
+Added Component: Designator=L10(L1008)
+Added Component: Designator=L11(L1008)
+Added Component: Designator=L12(L1008)
+Added Component: Designator=L13(L1008)
+Added Component: Designator=L14(L1008)
+Added Component: Designator=Ñ1(C1210)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Ñ2(C1206)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-2
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC4_1 Pin=C8-1
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC4_1 Pin=C10-1
+Added Pin To Net: NetName=NetC7_2 Pin=C11-2
+Added Pin To Net: NetName=NetC7_2 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=NetC4_1 Pin=L1-2
+Added Pin To Net: NetName=NetC4_1 Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=NetC7_2 Pin=L4-2
+Added Pin To Net: NetName=GND Pin=L5-1
+Added Pin To Net: NetName=NetC7_2 Pin=L5-2
+Added Pin To Net: NetName=NetC3_1 Pin=L6-1
+Added Pin To Net: NetName=NetC7_2 Pin=L6-2
+Added Pin To Net: NetName=NetC4_1 Pin=L7-1
+Added Pin To Net: NetName=NetC3_1 Pin=L7-2
+Added Pin To Net: NetName=NetC4_1 Pin=L8-1
+Added Pin To Net: NetName=NetC6_1 Pin=L8-2
+Added Pin To Net: NetName=NetC4_1 Pin=L9-1
+Added Pin To Net: NetName=NetC7_1 Pin=L9-2
+Added Pin To Net: NetName=NetC4_1 Pin=L10-1
+Added Pin To Net: NetName=NetC7_2 Pin=L10-2
+Added Pin To Net: NetName=NetC7_2 Pin=L11-1
+Added Pin To Net: NetName=NetC9_1 Pin=L11-2
+Added Pin To Net: NetName=NetC4_1 Pin=L12-2
+Added Pin To Net: NetName=NetC4_1 Pin=L13-1
+Added Pin To Net: NetName=NetC7_2 Pin=L14-2
+Added Pin To Net: NetName=NetC4_1 Pin=Ñ1-1
+Added Pin To Net: NetName=NetC7_2 Pin=Ñ2-2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C12-2
+Added Pin To Net: NetName=NetC10_2 Pin=L12-1
+Added Pin To Net: NetName=NetC10_2 Pin=L14-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=L13-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=L3-2
+Added Pin To Net: NetName=NetL2_2 Pin=L4-1
+Added Pin To Net: NetName=NetL2_2 Pin=Ñ1-2
+Added Pin To Net: NetName=NetL2_2 Pin=Ñ2-1
+Added Net: Name=NetL2_2
+Added Class: Name=band_pass_filter
+Added Class: Name=high_pass_filter
+Added Member To Class: ClassName=low_pass_filter Member=Component C3 Cap
+Added Member To Class: ClassName=low_pass_filter Member=Component C4 Cap
+Added Member To Class: ClassName=low_pass_filter Member=Component C5 Cap
+Added Member To Class: ClassName=band-stop_filter Member=Component C6 Cap
+Added Member To Class: ClassName=band-stop_filter Member=Component C7 Cap
+Added Member To Class: ClassName=band-stop_filter Member=Component C8 Cap
+Added Member To Class: ClassName=band-stop_filter Member=Component C9 Cap
+Added Member To Class: ClassName=low_pass_filter Member=Component L6 L1812
+Added Member To Class: ClassName=low_pass_filter Member=Component L7 L1812
+Added Member To Class: ClassName=band-stop_filter Member=Component L8 L1008
+Added Member To Class: ClassName=band-stop_filter Member=Component L9 L1812
+Added Member To Class: ClassName=band-stop_filter Member=Component L10 L1008
+Added Member To Class: ClassName=band-stop_filter Member=Component L11 L1008
+Added Room: Name=band-stop_filter
+Added Room: Name=band_pass_filter
+Added Room: Name=high_pass_filter
+Added Room: Name=low_pass_filter
